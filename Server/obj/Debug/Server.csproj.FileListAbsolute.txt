@@ -1,0 +1,65 @@
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Server\bin\Debug\Server.exe.config
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Server\bin\Debug\Server.exe
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Server\bin\Debug\Server.pdb
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Server\bin\Debug\ProtocolSI.dll
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Server\obj\Debug\Server.exe
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Server\obj\Debug\Server.pdb
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\joaod\Desktop\Projecto\Server\bin\Debug\Server.exe.config
+C:\Users\joaod\Desktop\Projecto\Server\bin\Debug\Server.exe
+C:\Users\joaod\Desktop\Projecto\Server\bin\Debug\Server.pdb
+C:\Users\joaod\Desktop\Projecto\Server\bin\Debug\EntityFramework.dll
+C:\Users\joaod\Desktop\Projecto\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joaod\Desktop\Projecto\Server\bin\Debug\ProtocolSI.dll
+C:\Users\joaod\Desktop\Projecto\Server\bin\Debug\EntityFramework.xml
+C:\Users\joaod\Desktop\Projecto\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joaod\Desktop\Projecto\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\joaod\Desktop\Projecto\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\joaod\Desktop\Projecto\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\joaod\Desktop\Projecto\Server\obj\Debug\Server.exe
+C:\Users\joaod\Desktop\Projecto\Server\obj\Debug\Server.pdb
+C:\Users\joaod\Desktop\Projecto\Server\bin\Debug\Database1.mdf
+C:\Users\joaod\Desktop\Projecto\Server\bin\Debug\Database1_log.ldf
+C:\Users\2172428\Desktop\Projecto\Server\bin\Debug\Database1.mdf
+C:\Users\2172428\Desktop\Projecto\Server\bin\Debug\Database1_log.ldf
+C:\Users\2172428\Desktop\Projecto\Server\bin\Debug\Server.exe.config
+C:\Users\2172428\Desktop\Projecto\Server\bin\Debug\Server.exe
+C:\Users\2172428\Desktop\Projecto\Server\bin\Debug\Server.pdb
+C:\Users\2172428\Desktop\Projecto\Server\bin\Debug\EntityFramework.dll
+C:\Users\2172428\Desktop\Projecto\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\2172428\Desktop\Projecto\Server\bin\Debug\ProtocolSI.dll
+C:\Users\2172428\Desktop\Projecto\Server\bin\Debug\EntityFramework.xml
+C:\Users\2172428\Desktop\Projecto\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\2172428\Desktop\Projecto\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\2172428\Desktop\Projecto\Server\obj\Debug\Server.exe
+C:\Users\2172428\Desktop\Projecto\Server\obj\Debug\Server.pdb
+C:\Users\joaod\Desktop\ProjectoTopSeg\Server\bin\Debug\Database1.mdf
+C:\Users\joaod\Desktop\ProjectoTopSeg\Server\bin\Debug\Database1_log.ldf
+C:\Users\joaod\Desktop\ProjectoTopSeg\Server\bin\Debug\Server.exe.config
+C:\Users\joaod\Desktop\ProjectoTopSeg\Server\bin\Debug\Server.exe
+C:\Users\joaod\Desktop\ProjectoTopSeg\Server\bin\Debug\Server.pdb
+C:\Users\joaod\Desktop\ProjectoTopSeg\Server\bin\Debug\EntityFramework.dll
+C:\Users\joaod\Desktop\ProjectoTopSeg\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joaod\Desktop\ProjectoTopSeg\Server\bin\Debug\ProtocolSI.dll
+C:\Users\joaod\Desktop\ProjectoTopSeg\Server\bin\Debug\EntityFramework.xml
+C:\Users\joaod\Desktop\ProjectoTopSeg\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joaod\Desktop\ProjectoTopSeg\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\joaod\Desktop\ProjectoTopSeg\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\joaod\Desktop\ProjectoTopSeg\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\joaod\Desktop\ProjectoTopSeg\Server\obj\Debug\Server.exe
+C:\Users\joaod\Desktop\ProjectoTopSeg\Server\obj\Debug\Server.pdb
+C:\Users\Igor\Desktop\ProjectoTopSeg\Server\bin\Debug\Database1.mdf
+C:\Users\Igor\Desktop\ProjectoTopSeg\Server\bin\Debug\Database1_log.ldf
+C:\Users\Igor\Desktop\ProjectoTopSeg\Server\bin\Debug\Server.exe.config
+C:\Users\Igor\Desktop\ProjectoTopSeg\Server\bin\Debug\Server.exe
+C:\Users\Igor\Desktop\ProjectoTopSeg\Server\bin\Debug\Server.pdb
+C:\Users\Igor\Desktop\ProjectoTopSeg\Server\bin\Debug\EntityFramework.dll
+C:\Users\Igor\Desktop\ProjectoTopSeg\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Igor\Desktop\ProjectoTopSeg\Server\bin\Debug\ProtocolSI.dll
+C:\Users\Igor\Desktop\ProjectoTopSeg\Server\bin\Debug\EntityFramework.xml
+C:\Users\Igor\Desktop\ProjectoTopSeg\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Igor\Desktop\ProjectoTopSeg\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\ProjectoTopSeg\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\ProjectoTopSeg\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Igor\Desktop\ProjectoTopSeg\Server\obj\Debug\Server.exe
+C:\Users\Igor\Desktop\ProjectoTopSeg\Server\obj\Debug\Server.pdb

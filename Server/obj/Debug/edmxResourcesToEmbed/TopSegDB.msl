@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TopSegDBStoreContainer" CdmEntityContainer="TopSegDBContainer">
+    <EntitySetMapping Name="UsersSET">
+      <EntityTypeMapping TypeName="IsTypeOf(TopSegDB.Users)">
+        <MappingFragment StoreEntitySet="UsersSET">
+          <ScalarProperty Name="IdUser" ColumnName="IdUser" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="HashedPass" ColumnName="HashedPass" />
+          <ScalarProperty Name="Salt" ColumnName="Salt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="DATABASE" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="DATABASEContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="UserSet" EntityType="DATABASE.User" />
+  </EntityContainer>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="IdUser" />
+    </Key>
+    <Property Name="IdUser" Type="String" Nullable="false" annotation:StoreGeneratedPattern="None" />
+    <Property Name="HashedPassword" Type="String" Nullable="false" />
+    <Property Name="Salt" Type="String" Nullable="false" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,65 @@
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Cliente\bin\Debug\Cliente.exe.config
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Cliente\bin\Debug\Cliente.exe
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Cliente\bin\Debug\Cliente.pdb
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Cliente\bin\Debug\ProtocolSI.dll
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Cliente\obj\Debug\Cliente.exe
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Cliente\obj\Debug\Cliente.pdb
+D:\Escola\Segundo Semestere\Topicos Segurança\Projecto\Cliente\Cliente\obj\Debug\Cliente.Forms.Login.resources
+C:\Users\joaod\Desktop\Projecto\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\joaod\Desktop\Projecto\Cliente\bin\Debug\Cliente.exe
+C:\Users\joaod\Desktop\Projecto\Cliente\bin\Debug\Cliente.pdb
+C:\Users\joaod\Desktop\Projecto\Cliente\bin\Debug\ProtocolSI.dll
+C:\Users\joaod\Desktop\Projecto\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\joaod\Desktop\Projecto\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\joaod\Desktop\Projecto\Cliente\obj\Debug\Cliente.Forms.CreateUser.resources
+C:\Users\joaod\Desktop\Projecto\Cliente\obj\Debug\Cliente.Forms.Login.resources
+C:\Users\joaod\Desktop\Projecto\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\joaod\Desktop\Projecto\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\joaod\Desktop\Projecto\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\joaod\Desktop\Projecto\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\joaod\Desktop\Projecto\Cliente\obj\Debug\Cliente.exe
+C:\Users\joaod\Desktop\Projecto\Cliente\obj\Debug\Cliente.pdb
+C:\Users\2172428\Desktop\Projecto\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\2172428\Desktop\Projecto\Cliente\bin\Debug\Cliente.exe
+C:\Users\2172428\Desktop\Projecto\Cliente\bin\Debug\Cliente.pdb
+C:\Users\2172428\Desktop\Projecto\Cliente\bin\Debug\ProtocolSI.dll
+C:\Users\2172428\Desktop\Projecto\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\2172428\Desktop\Projecto\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\2172428\Desktop\Projecto\Cliente\obj\Debug\Cliente.Forms.CreateUser.resources
+C:\Users\2172428\Desktop\Projecto\Cliente\obj\Debug\Cliente.Forms.Login.resources
+C:\Users\2172428\Desktop\Projecto\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\2172428\Desktop\Projecto\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\2172428\Desktop\Projecto\Cliente\obj\Debug\Cliente.exe
+C:\Users\2172428\Desktop\Projecto\Cliente\obj\Debug\Cliente.pdb
+C:\Users\joaod\Desktop\ProjectoTopSeg\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\joaod\Desktop\ProjectoTopSeg\Cliente\bin\Debug\Cliente.exe
+C:\Users\joaod\Desktop\ProjectoTopSeg\Cliente\bin\Debug\Cliente.pdb
+C:\Users\joaod\Desktop\ProjectoTopSeg\Cliente\bin\Debug\ProtocolSI.dll
+C:\Users\joaod\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\joaod\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\joaod\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.Forms.CreateUser.resources
+C:\Users\joaod\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.Forms.Login.resources
+C:\Users\joaod\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\joaod\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\joaod\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\joaod\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\joaod\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.exe
+C:\Users\joaod\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Igor\Desktop\ProjectoTopSeg\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Igor\Desktop\ProjectoTopSeg\Cliente\bin\Debug\Cliente.exe
+C:\Users\Igor\Desktop\ProjectoTopSeg\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Igor\Desktop\ProjectoTopSeg\Cliente\bin\Debug\ProtocolSI.dll
+C:\Users\Igor\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.Forms.CreateUser.resources
+C:\Users\Igor\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.Forms.Login.resources
+C:\Users\Igor\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Igor\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Igor\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\Igor\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.exe
+C:\Users\Igor\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Igor\Desktop\ProjectoTopSeg\Cliente\obj\Debug\Cliente.FormPrincipal.resources
